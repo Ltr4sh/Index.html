@@ -1,0 +1,35 @@
+body {
+  background-color: darkslategray;
+}
+
+#acceder {
+    color: black;
+    width: 600px;
+    height: 180px;
+    border-radius: 30px;
+    border-top-color: darkred;
+    margin: 780px;
+    margin-top: 180px;
+}
+
+#ab {
+    width: 600px;
+    height: 280px;
+    background-color: darkslategray;
+    margin-top: 0px;
+}
+
+button{
+  padding: 0 5px;
+  width: 140px;
+  height: 40px;
+  border: 0;
+  outline: none;
+  color: #fff;
+  font-weight: 500;
+  border: none;
+  cursor: pointer;
+  background-color: darkred;
+  border-radius: 25px;
+  transition: width 0.5s;
+}
